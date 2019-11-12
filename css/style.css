@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    
+    padding-top: 0.5em;
+}
+
+/*Navbar*/
+.logo-navbar {
+    font-size: 1.5em;
+}
+.dropdown-menu {
+    background:rgb(202, 200, 194);
+    border: none;
+}
+
+/*SObre*/
+.sobre {
+    margin-top: 6%;
+}
+
+
+/*Novidades*/
+#novidades {
+    margin-bottom: 2%;
+}
+
+.carousel-item {
+    font-size: 2em;
+}
+
+/*Eventos*/
+.jumbotron {
+    text-align: center;
+    background: rgb(202, 200, 194);
+    margin-top: 1%;
+}
+
+/*footer*/
+.page-footer {
+    background:rgb(202, 200, 194);
+    padding: 2%;
+}
+.fab {
+    color:rgb(138, 134, 123);
+    padding-right: 2%;
+}
+
